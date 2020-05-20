@@ -42,7 +42,7 @@ $name = RandomString();
 $lastname = RandomString();
 
 $pub = 'pk_live_E0M8014cALnySBMlZSj44duj';
-$sec= 'sk_live_kmM6e1DWYLegFIq4QOHuLL6i00O6Go2vkK';
+$sec= 'sk_live_AEMR4UFETLVjbAQxrXqzmXO800j3uuyz13';
 
 $ch = curl_init();
 
